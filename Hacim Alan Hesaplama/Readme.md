@@ -14,5 +14,6 @@ Uygulama, her biri farklı bir hesaplama türüne odaklanan 7 ana formdan oluşm
     * **Silindir:** Yarıçap ve yükseklik kullanarak taban, yanal, toplam alan ve hacim hesaplama.
     * **Koni:** Taban alanı, yanal alan ve hacim sonuçları.
     * **Küre:** Yüzey alanı ve hacim hesaplama.
-* **Matematiksel Çözümler:** * **İkinci Dereceden Denklemler:** Verilen $a, b, c$ katsayıları ile diskriminant yöntemi üzerinden kök ($x_1, x_2$) bulma.
-Kolay kullanım için ana sayfa ve alt formlar arası hızlı geçiş butonları.
+
+Ayrıca matematiksel çözüm olarak seçilen ikinci dereceden denklemler de hesaplatılmaktadır. Verilen $a, b, c$ katsayıları ile diskriminant yöntemi üzerinden kök ($x_1, x_2$) bulabilmektedir.
+Kolay kullanım için ana sayfa ve alt formlar arası hızlı geçiş butonları vardır.
